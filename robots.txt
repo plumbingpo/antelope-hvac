@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antelopehvacco.com/sitemap.xml
